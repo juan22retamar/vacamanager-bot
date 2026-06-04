@@ -97,9 +97,9 @@ Notifica aprobación + descuenta días del saldo → FIN
 
 ## 👥 Integrantes
 
-| Nombre | Legajo |
+| Nombre | apellido |
 |---|---|
-| [Tu nombre aquí] | [Tu legajo aquí] |
+| juan | retamar |
 | [Nombre compañera] | [Legajo compañera] |
 
 ---
