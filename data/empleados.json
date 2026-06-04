@@ -1,1 +1,22 @@
-[]
+[
+  { "legajo": "001", "nombre": "Ana García",       "dias_disponibles": 15, "dias_tomados": 0, "estado_solicitud": "ninguna" },
+  { "legajo": "002", "nombre": "Carlos López",     "dias_disponibles": 10, "dias_tomados": 5, "estado_solicitud": "ninguna" },
+  { "legajo": "003", "nombre": "María Fernández",  "dias_disponibles": 0,  "dias_tomados": 15,"estado_solicitud": "ninguna" },
+  { "legajo": "004", "nombre": "Juan Pérez",       "dias_disponibles": 8,  "dias_tomados": 7, "estado_solicitud": "ninguna" },
+  { "legajo": "005", "nombre": "Lucía Martínez",   "dias_disponibles": 15, "dias_tomados": 0, "estado_solicitud": "ninguna" },
+  { "legajo": "006", "nombre": "Diego Rodríguez",  "dias_disponibles": 3,  "dias_tomados": 12,"estado_solicitud": "ninguna" },
+  { "legajo": "007", "nombre": "Valentina Torres", "dias_disponibles": 12, "dias_tomados": 3, "estado_solicitud": "ninguna" },
+  { "legajo": "008", "nombre": "Martín Sánchez",   "dias_disponibles": 15, "dias_tomados": 0, "estado_solicitud": "ninguna" },
+  { "legajo": "009", "nombre": "Florencia Ruiz",   "dias_disponibles": 6,  "dias_tomados": 9, "estado_solicitud": "ninguna" },
+  { "legajo": "010", "nombre": "Sebastián Díaz",   "dias_disponibles": 15, "dias_tomados": 0, "estado_solicitud": "ninguna" },
+  { "legajo": "011", "nombre": "Camila Moreno",    "dias_disponibles": 4,  "dias_tomados": 11,"estado_solicitud": "ninguna" },
+  { "legajo": "012", "nombre": "Nicolás Herrera",  "dias_disponibles": 15, "dias_tomados": 0, "estado_solicitud": "ninguna" },
+  { "legajo": "013", "nombre": "Sofía Romero",     "dias_disponibles": 9,  "dias_tomados": 6, "estado_solicitud": "ninguna" },
+  { "legajo": "014", "nombre": "Facundo Vargas",   "dias_disponibles": 0,  "dias_tomados": 15,"estado_solicitud": "ninguna" },
+  { "legajo": "015", "nombre": "Agustina Castro",  "dias_disponibles": 11, "dias_tomados": 4, "estado_solicitud": "ninguna" },
+  { "legajo": "016", "nombre": "Tomás Gutiérrez",  "dias_disponibles": 15, "dias_tomados": 0, "estado_solicitud": "ninguna" },
+  { "legajo": "017", "nombre": "Julieta Mendoza",  "dias_disponibles": 7,  "dias_tomados": 8, "estado_solicitud": "ninguna" },
+  { "legajo": "018", "nombre": "Rodrigo Silva",    "dias_disponibles": 15, "dias_tomados": 0, "estado_solicitud": "ninguna" },
+  { "legajo": "019", "nombre": "Antonella Reyes",  "dias_disponibles": 2,  "dias_tomados": 13,"estado_solicitud": "ninguna" },
+  { "legajo": "020", "nombre": "Ezequiel Núñez",   "dias_disponibles": 13, "dias_tomados": 2, "estado_solicitud": "ninguna" }
+]
