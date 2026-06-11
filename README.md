@@ -1,6 +1,6 @@
 # vacamanager-bot
 Simulador de chatbot para gestión de vacaciones - TUP OE
-# 🌴 VacaManager Bot
+#  VacaManager Bot
 
 Simulador de chatbot para la gestión de solicitudes de vacaciones de empleados.  
 Trabajo Práctico Integrador — Cátedra: Organización Empresarial  
@@ -8,7 +8,7 @@ Tecnicatura Universitaria en Programación (TUP) — UTN
 
 ---
 
-## 📋 Descripción del Proyecto
+##  Descripción del Proyecto
 
 **VacaManager S.A.** es una empresa ficticia de desarrollo de software con 20 empleados.  
 Este proyecto automatiza el proceso de solicitud de vacaciones mediante un chatbot simulado,
@@ -22,7 +22,7 @@ El bot permite a un empleado:
 
 ---
 
-## 🗂️ Estructura del Repositorio
+##  Estructura del Repositorio
 
 ```
 vacamanager-bot/
@@ -54,7 +54,7 @@ vacamanager-bot/
 
 ---
 
-## 🚀 Cómo Ejecutar el Simulador
+##  Cómo Ejecutar el Simulador
 
 ### Requisitos
 - Python 3.8 o superior instalado
@@ -75,7 +75,7 @@ python src/bot_simulador.py
 
 ---
 
-## 🔄 Flujo del Proceso (resumen)
+##  Flujo del Proceso (resumen)
 
 ```
 Empleado inicia solicitud
@@ -95,17 +95,17 @@ Notifica aprobación + descuenta días del saldo → FIN
 
 ---
 
-## 👥 Integrantes
+##  Integrante
 
 | Nombre | apellido |
 |---|---|
 | juan | retamar |
-| [Nombre compañera] | [Legajo compañera] |
+
 
 ---
 
-## 📁 Documentación adicional
+##  Documentación adicional
 
-- 📊 Diagrama BPMN: `/docs/bpmn/diagrama_vacaciones.xml`
-- 📖 Manual de usuario: `/docs/manual_usuario.md`
-- 💾 Base de datos: `/data/empleados.json`
+-  Diagrama BPMN: `/docs/bpmn/diagrama_vacaciones.xml`
+-  Manual de usuario: `/docs/manual_usuario.md`
+-  Base de datos: `/data/empleados.json`
